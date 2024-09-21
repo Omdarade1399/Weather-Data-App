@@ -65,6 +65,20 @@ input::placeholder{
     margin: 2rem auto;
 }
 
+.weather_forecast{
+    background: #1e1e1e;
+    color: #f7f7f7;
+    margin: 0.5rem auto;
+    width: 25%;
+    padding: 5px;
+    border-radius: 30px;
+}
+
+.weather_icon img{
+    height: 6rem;
+    width: 6rem;
+}
+
 
 /* weather extra data */
 .weather_info{
